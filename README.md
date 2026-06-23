@@ -38,4 +38,4 @@ Images were resized to 64x64 grayscale before training.
 Final Test Accuracy: 86.37%
 
 ## Acknowledgments
-This project was completed as part of the Computer Vision Research Program (CVRP 2026) using project requirements and instructional guidance provided by Professor Ismet.
+This project was completed as part of the Computer Vision Research Program (CVRP 2026) using project requirements and instructional guidance provided by Professor Sahin Ismet.
